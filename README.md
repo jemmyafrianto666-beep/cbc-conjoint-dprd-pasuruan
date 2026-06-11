@@ -6,32 +6,14 @@ This repository contains supporting files for a choice-based conjoint (CBC) anal
 
 ## Repository Contents
 
-- `data_long_anonim.csv`  
-  Anonymized long-format data used for AMCE estimation.
+- `Data_Responden_100.xlsx`  
+  Data 100 Responden
 
 - `cbc_profiles_final.csv`  
   Complete CBC attribute profiles generated using `cbcTools`.
 
 - `cbc_design_final.csv`  
   Final choice-based conjoint design used in the survey.
-
-- `cbc_inspect_final.txt`  
-  Design inspection output generated using `cbc_inspect()`.
-
-- `hasil_amce_non_reference.csv`  
-  AMCE estimation results.
-
-- `ranking_atribut_amce.csv`  
-  Attribute ranking based on the magnitude of AMCE estimates.
-
-- `grafik_amce_non_reference.png`  
-  Visualization of AMCE estimates and confidence intervals.
-
-- `citation_cbcTools.txt`  
-  Citation information for the `cbcTools` package.
-
-- `session_info.txt`  
-  R session information and package versions used in the analysis.
 
 ## Research Design
 
