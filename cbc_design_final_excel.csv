@@ -1,0 +1,17 @@
+profileID;respID;qID;altID;obsID;Gender;Usia_Tampak;Tone_Kulit;Fitur_Wajah;Gaya_Berpakaian;Pendidikan;Ketokohan;Pengalaman_Militer
+50;1;1;1;1;Perempuan;35_45;Cerah;Ramah_Lembut;Religius_Tradisional;S2_S3;Tokoh_Masyarakat_Lokal;Ada_Militer
+207;1;1;2;1;Laki_laki;45_55;Sawo_Matang;Tegas_Berwibawa;Formal_Rapi;S1_Ke_Bawah;Belum_Tokoh_Publik;Tidak_Ada_Militer
+123;1;2;1;2;Laki_laki;45_55;Cerah;Tegas_Berwibawa;Religius_Tradisional;S2_S3;Belum_Tokoh_Publik;Ada_Militer
+134;1;2;2;2;Perempuan;35_45;Sawo_Matang;Ramah_Lembut;Formal_Rapi;S1_Ke_Bawah;Tokoh_Masyarakat_Lokal;Tidak_Ada_Militer
+192;1;3;1;3;Perempuan;45_55;Sawo_Matang;Tegas_Berwibawa;Religius_Tradisional;S2_S3;Tokoh_Masyarakat_Lokal;Tidak_Ada_Militer
+65;1;3;2;3;Laki_laki;35_45;Cerah;Ramah_Lembut;Formal_Rapi;S1_Ke_Bawah;Belum_Tokoh_Publik;Ada_Militer
+212;1;4;1;4;Perempuan;45_55;Cerah;Ramah_Lembut;Religius_Tradisional;S1_Ke_Bawah;Belum_Tokoh_Publik;Tidak_Ada_Militer
+45;1;4;2;4;Laki_laki;35_45;Sawo_Matang;Tegas_Berwibawa;Formal_Rapi;S2_S3;Tokoh_Masyarakat_Lokal;Ada_Militer
+23;1;5;1;5;Laki_laki;45_55;Sawo_Matang;Ramah_Lembut;Religius_Tradisional;S1_Ke_Bawah;Tokoh_Masyarakat_Lokal;Ada_Militer
+234;1;5;2;5;Perempuan;35_45;Cerah;Tegas_Berwibawa;Formal_Rapi;S2_S3;Belum_Tokoh_Publik;Tidak_Ada_Militer
+104;1;6;1;6;Perempuan;45_55;Sawo_Matang;Ramah_Lembut;Formal_Rapi;S2_S3;Belum_Tokoh_Publik;Ada_Militer
+153;1;6;2;6;Laki_laki;35_45;Cerah;Tegas_Berwibawa;Religius_Tradisional;S1_Ke_Bawah;Tokoh_Masyarakat_Lokal;Tidak_Ada_Militer
+163;1;7;1;7;Laki_laki;45_55;Cerah;Ramah_Lembut;Formal_Rapi;S2_S3;Tokoh_Masyarakat_Lokal;Tidak_Ada_Militer
+94;1;7;2;7;Perempuan;35_45;Sawo_Matang;Tegas_Berwibawa;Religius_Tradisional;S1_Ke_Bawah;Belum_Tokoh_Publik;Ada_Militer
+12;1;8;1;8;Perempuan;45_55;Cerah;Tegas_Berwibawa;Formal_Rapi;S1_Ke_Bawah;Tokoh_Masyarakat_Lokal;Ada_Militer
+245;1;8;2;8;Laki_laki;35_45;Sawo_Matang;Ramah_Lembut;Religius_Tradisional;S2_S3;Belum_Tokoh_Publik;Tidak_Ada_Militer
